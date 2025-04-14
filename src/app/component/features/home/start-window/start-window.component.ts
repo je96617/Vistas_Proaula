@@ -10,7 +10,7 @@ import { HeaderHomeComponent } from "../../../shared/header-home/component/share
   styleUrl: './start-window.component.css'
 })
 export class StartWindowComponent {
-  imgSrc: string = 'assets/images/escudo-cartagena.png';
+  imgSrc: string = 'assets/images/palmera.webp';
   featuredItems = [
     {
       title: "Servicios Ciudadanos",

@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
 })
 export class HeaderHomeComponent {
   isMenuOpen = false;
-  imgSrc: string = 'assets/images/escudo-cartagena.png';
+  imgSrc: string = 'assets/images/palmera.webp';
 
 
   constructor(private router: Router) {}
