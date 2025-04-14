@@ -13,7 +13,7 @@ import { User } from '../../../models/user.model';
   styleUrls: ['./login.component.css'],
 })
 export class LoginComponent {
-  imgSrc: string = 'assets/images/escudo-cartagena.png';
+  imgSrc: string = 'assets/images/palmera.webp';
 
   email: string = '';
   password: string = '';
